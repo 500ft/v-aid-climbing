@@ -1,0 +1,27 @@
+[
+  {
+    "path": "images/final-integrated-prototype.jpg",
+    "sha256": "398551147cca5dfef74df613360c39fdc21e9a107d915b92885acedd07cd7906",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/v-aid-climbing/final-integrated-prototype.jpg"
+  },
+  {
+    "path": "images/early-pin-array-test.jpg",
+    "sha256": "45affd000264276c319ce93446c46900462d8a9b2fe012743d477591f9c86a04",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/v-aid-climbing/early-pin-array-test.jpg"
+  },
+  {
+    "path": "images/laser-cut-housing-cad.png",
+    "sha256": "cfd95fd159d5056fff8a3f665d223399805442e59e186326bb3468645c2c5025",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/v-aid-climbing/laser-cut-housing-cad.png"
+  },
+  {
+    "path": "images/sectioned-custom-pins.png",
+    "sha256": "d816e4f33447e5b966979a5e70f5ada26fd908b56e2858411b6f6d6d3e5255ac",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/v-aid-climbing/sectioned-custom-pins.png"
+  },
+  {
+    "path": "images/custom-pin-cad-dimension.png",
+    "sha256": "8974cf889daf227ce2278c44250ea1447f15b23a085ac34f9ed4eec330f051c7",
+    "source": "500ft/Portfolio at 9ecef2596cc078366325cac99261b3b4eba1fdbb: public/projects/v-aid-climbing/custom-pin-cad-dimension.png"
+  }
+]
